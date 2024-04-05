@@ -14,7 +14,7 @@ export default defineNuxtConfig({
     },
     app: {
         head: {
-            title: 'CF AI Web',
+            title: 'lift-ai',
             meta: [
                 {
                     name: 'keywords',
